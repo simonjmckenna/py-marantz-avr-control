@@ -70,7 +70,7 @@ class ampControl():
 
 #main()
 
-amp = ampControl("192.168.1.106",23)
+amp = ampControl("192.168.1.56",23)
 
 #amp.set_mute("on")
 
