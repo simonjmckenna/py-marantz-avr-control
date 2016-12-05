@@ -14,3 +14,4 @@ Simple ones seem to work, though cannot change source at the moment
 todo - tidy up and fix - the eventaul goal is to integrate with flask-ask and alexa.
 
  
+# py-alexa-home-skill
